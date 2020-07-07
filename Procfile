@@ -1,1 +1,1 @@
-web: gunicorn app:house_price_estimator
+web: gunicorn
